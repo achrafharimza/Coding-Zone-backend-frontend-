@@ -10,9 +10,9 @@ public class Config {
 //    private static String user = "postgres" ;
 //    private static String passwd = "admin";
 //    private static Connection connect;
-    private static String url = "jdbc:postgresql://ec2-54-220-243-77.eu-west-1.compute.amazonaws.com:5432/ddbv1ojm3qt9br";
-    private static String user = "wcirbhlncfduts" ;
-    private static String passwd = "6bd3ce641b95c015b2fcd6ad6e0860abb78f0f16ba9a52d82365dfc3702b05ec";
+    private static String url = "jdbc:postgresql://ec2-34-193-2-172.compute-1.amazonaws.com:5432/d6kpt4vb2fn7mc";
+    private static String user = "xlfrqfxgnlrtgg" ;
+    private static String passwd = "68a45959d529237cb0b64a1ae905d23d051471c7479a8d9d319c4a0b61a79fd0";
     private static Connection connect;
 
     public static Connection getInstance(){
